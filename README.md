@@ -50,19 +50,19 @@ Then run `/setup`. Claude Code handles everything: dependencies, authentication,
 
 ## Usage
 
-Talk to your assistant with the trigger word (default: `@Andy`):
+Open your Whatsapp application and talk to your assistant with the trigger word (default: `@Qorin`):
 
 ```
-@Andy send an overview of the sales pipeline every weekday morning at 9am (has access to my Obsidian vault folder)
-@Andy review the git history for the past week each Friday and update the README if there's drift
-@Andy every Monday at 8am, compile news on AI developments from Hacker News and TechCrunch and message me a briefing
+@Qorin send an overview of the sales pipeline every weekday morning at 9am (has access to my Obsidian vault folder)
+@Qorin review the git history for the past week each Friday and update the README if there's drift
+@Qorin every Monday at 8am, compile news on AI developments from Hacker News and TechCrunch and message me a briefing
 ```
 
 From the main channel (your self-chat), you can manage groups and tasks:
 ```
-@Andy list all scheduled tasks across groups
-@Andy pause the Monday briefing task
-@Andy join the Family Chat group
+@Qorin list all scheduled tasks across groups
+@Qorin pause the Monday briefing task
+@Qorin join the Family Chat group
 ```
 
 ## Customizing
